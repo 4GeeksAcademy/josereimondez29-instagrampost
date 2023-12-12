@@ -1,3 +1,50 @@
-div.post-header{
+body {
+    background: black;
+    margin: 0;
+    padding-top: 10%;
+}
+div.post-header {
     display: flex;
+    padding-left: 2%;
+    
+}
+div.logo {
+    width: 7%;
+    height: 7%;
+    padding-top: 3%;
+}
+
+div.tres-puntos {
+    width: 1.5%;
+    height: 2%;
+    padding-top: 3%;
+    padding-left: 77%;
+}
+div.post {
+    background: white;
+    margin-top: 10px;
+    box-sizing: content-box;
+    width: 600px;
+    margin: auto;
+    
+}
+div.post img {
+    width: 100%;
+}
+div.post-icons {
+    display: flex;
+    width: 20%;
+    height: 20%;
+    
+}
+
+div.post-body {
+    padding-bottom: 5%;
+    padding-left: 2%;
+    padding-right: 2%;
+    padding-top: 2%;
+}
+
+.post-icons div:last-child{
+    
 }
