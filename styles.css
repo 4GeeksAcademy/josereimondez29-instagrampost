@@ -47,13 +47,11 @@ div.post-icons {
     font-size: 150%;
     
 }
-div.me-gusta {
+.separador-iconos {
     padding-right: 2%;
 }
 
-div.comentario {
-    padding-right: 2%;
-}
+
 
 div.compartir {
     margin-right: auto;
